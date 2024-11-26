@@ -13,7 +13,7 @@ print ("La tua stringa ha un massimo di ", counter, "in totale")
 
 #Ciclo For, Imperativo
 
-Array = ['cane', 'cosa', 'pane', 'mela', 'Stereotipo', "canto", "ululato", "secs"]
+Array = ['cane', 'cosa', 'pane', 'mela', 'Stereotipo', "canto", "ululato", "secco"]
 
 for cosa in Array:
     if len(cosa) > 5:
